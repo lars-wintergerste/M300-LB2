@@ -50,7 +50,6 @@ Webmin ist eine webbasierte Schnittstelle zur Systemadministration für Unix. Mi
 ### Dockerfile
 ```
 FROM ubuntu:16.04
-MAINTAINER Tim Rhomberg <timrhomberg@hotmail.com>
 ```
 Als erstes wird ein Update der Paketquellen durchgeführt und das Webmin Repository in die Datei /etc/apt/sources.list.
 ```
