@@ -1,5 +1,4 @@
 FROM ubuntu:16.04
-MAINTAINER Tim Rhomberg <timrhomberg@hotmail.com>
 
 RUN apt-get -qq update
 RUN apt-get -y -qq install wget
